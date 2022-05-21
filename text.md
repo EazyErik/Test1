@@ -1,1 +1,1 @@
-<samp>Hallo wie **gehts**?</samp>
+<samp>Mir gehts gut</samp>
